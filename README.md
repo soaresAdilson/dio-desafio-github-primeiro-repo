@@ -5,5 +5,5 @@ Repositório criado para o Desafio do Projeto
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/cheat-sheet/)
 
 ### Bootcamp Dio/Spread-Dominando IDEs Java
-[Atalhos no Eclipse](https://web.dio.me/course/dominando-ides-java/learning/33a71135-d694-4a38-9459-48ed80e7b196?back=/track/spread-java-developer)
-[Git/GitHub](https://web.dio.me/course/dominando-ides-java/learning/76dc0314-0fea-43eb-981b-feacf129e960?back=/track/spread-java-developer)
+1. [Atalhos no Eclipse](https://web.dio.me/course/dominando-ides-java/learning/33a71135-d694-4a38-9459-48ed80e7b196?back=/track/spread-java-developer)
+2. [Git/GitHub](https://web.dio.me/course/dominando-ides-java/learning/76dc0314-0fea-43eb-981b-feacf129e960?back=/track/spread-java-developer)
